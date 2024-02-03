@@ -1,0 +1,22 @@
+{
+  "name": "newappium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^x.x.x",
+    "appium-uiautomator2-driver": "^x.x.x",
+    "appium-mac2-driver": "^x.x.x",
+    "appium-geckodriver": "^x.x.x",
+    "appium-chromedriver": "^x.x.x",
+    "appium-safari-driver": "^x.x.x",
+    "appium-device-farm": "^x.x.x",
+    "appium-dashboard": "^x.x.x"
+  }
+}
